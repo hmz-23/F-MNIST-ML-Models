@@ -1,5 +1,7 @@
 # F-MNIST using ML-Algorithms
 
+### I have applied RandomForest, LogisticRegression, XgBoost, GradientBoost and SVM to get the highest accuracy score using hyper-parameters.
+
 Dataset : https://www.kaggle.com/zalando-research/fashionmnist
 
 ### Description
